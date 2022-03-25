@@ -1,0 +1,92 @@
+2022-03-25 10:10:32-log: [Package] menu@1.0.0 enable
+2022-03-25 10:10:32-log: [Package] profile@1.0.0 enable
+2022-03-25 10:10:32-log: [Package] project@1.0.1 enable
+2022-03-25 10:10:32-log: [Package] messages@1.0.0 enable
+2022-03-25 10:10:32-log: [Package] program@1.0.0 enable
+2022-03-25 10:10:32-log: [Package] device@1.0.1 enable
+2022-03-25 10:10:32-log: [Package] ui-kit@1.0.1 enable
+2022-03-25 10:10:32-log: [Package] tester@1.0.0 enable
+2022-03-25 10:10:32-log: [Package] preferences@1.0.0 enable
+2022-03-25 10:10:33-log: Setup mods mgr.: 258.134ms
+2022-03-25 10:10:34-log: [Package] engine@1.0.5 enable
+2022-03-25 10:10:36-log: [Package] programming@1.0.0 enable
+2022-03-25 10:10:37-log: [Package] engine-extends@1.0.0 enable
+2022-03-25 10:10:37-log: [Package] asset-db@1.0.0 enable
+2022-03-25 10:10:37-log: [Package] console@1.0.0 enable
+2022-03-25 10:10:37-log: [Package] scene@1.0.0 enable
+2022-03-25 10:10:37-log: [Package] about@1.0.0 enable
+2022-03-25 10:10:37-log: [Package] server@1.0.0 enable
+2022-03-25 10:10:37-warn: Server: Port 7456 is occupied
+2022-03-25 10:10:37-log: [Package] utils@1.0.0 enable
+2022-03-25 10:10:37-log: [Package] assets@1.0.0 enable
+2022-03-25 10:10:37-log: [Package] inspector@1.0.0 enable
+2022-03-25 10:10:37-log: [Package] hierarchy@1.0.0 enable
+2022-03-25 10:10:39-log: [Package] preview@1.0.1 enable
+2022-03-25 10:10:39-log: [Package] animator@1.0.0 enable
+2022-03-25 10:10:41-log: [Package] builder@1.3.0 enable
+2022-03-25 10:10:41-log: [Package] node-library@1.0.0 enable
+2022-03-25 10:10:41-log: [Package] shortcuts@1.0.1 enable
+2022-03-25 10:10:41-log: [Package] package-asset@1.0.0 enable
+2022-03-25 10:10:41-log: [Package] reference-image@1.0.0 enable
+2022-03-25 10:10:41-log: [Package] animation-graph@1.0.0 enable
+2022-03-25 10:10:41-log: [Package] channel-upload-tools@1.0.0 enable
+2022-03-25 10:10:41-log: [Package] runtime-dev-tools@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] lightmap@1.0.4 enable
+2022-03-25 10:10:42-log: [Package] alipay-mini-game@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] android@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] baidu-mini-game@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] bytedance-mini-game@1.0.1 enable
+2022-03-25 10:10:42-log: [Package] huawei-agc@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] ios@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] ios-app-clip@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] mac@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] native@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] ohos@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] web-desktop@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] web-mobile@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] wechatgame@1.0.1 enable
+2022-03-25 10:10:42-log: [Package] windows@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] cocos-play@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] huawei-quick-game@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] link-sure@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] oppo-mini-game@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] qtt@1.0.0 enable
+2022-03-25 10:10:42-log: [Package] vivo-mini-game@1.0.0 enable
+2022-03-25 10:10:43-log: [Package] cocos-service@3.0.2 enable
+2022-03-25 10:10:43-log: [Package] importer@1.0.0 enable
+2022-03-25 10:10:43-log: [Package] extension@3.0.15 enable
+2022-03-25 10:10:44-log: [Im-plugin] Check im-plugin version.
+2022-03-25 10:10:44-log: [Package] im-plugin@3.0.8 enable
+2022-03-25 10:10:44-warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-03-25 10:10:45-log: [Im-plugin] No online info of im-plugin.
+2022-03-25 10:10:46-log: [Scene] begin init
+2022-03-25 10:10:46-log: [Scene] require engine end
+2022-03-25 10:10:46-log: [Scene] Serialize end
+2022-03-25 10:10:46-log: [Scene] configureStartup end
+2022-03-25 10:10:47-log: [Scene] Cocos Creator v3.4.1
+2022-03-25 10:10:47-info: [Scene] Forward render pipeline initialized.
+2022-03-25 10:10:47-log: [Scene] openEngine end
+2022-03-25 10:10:47-log: [Scene] configureEngine end
+2022-03-25 10:24:09-error: ENOENT: no such file or directory, stat '/Users/harpindermatharu/Documents/CocosCreatorProjects/BrickBreakerGame/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/Scripts/LevelScreen.js'
+2022-03-25 10:24:09-error: ENOENT: no such file or directory, stat '/Users/harpindermatharu/Documents/CocosCreatorProjects/BrickBreakerGame/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/Scripts/SingletonClass.js'
+2022-03-25 10:24:09-error: ENOENT: no such file or directory, stat '/Users/harpindermatharu/Documents/CocosCreatorProjects/BrickBreakerGame/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/Scripts/PlayScript.js'
+2022-03-25 10:24:09-error: ENOENT: no such file or directory, stat '/Users/harpindermatharu/Documents/CocosCreatorProjects/BrickBreakerGame/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/Scripts/SplashScreen.js'
+2022-03-25 10:24:09-error: ENOENT: no such file or directory, stat '/Users/harpindermatharu/Documents/CocosCreatorProjects/BrickBreakerGame/temp/programming/packer-driver/targets/preview/mods/fs/0/assets/Scripts/levelScreenNewScript.js'
+2022-03-25 10:24:10-error: [Preview]load http://localhost:7457/assets/main/index.js failed
+2022-03-25 10:24:10-error: [Preview]load virtual:///prerequisite-imports/main failed
+2022-03-25 10:24:10-error: [Preview]Error loading virtual:///prerequisite-imports/main (SystemJS Error#3 https://git.io/JvFET#3)
+2022-03-25 10:24:10-error: [Preview]@http://localhost:7457/scripting/systemjs/system.js:635:21
+2022-03-25 10:24:10-error: [Preview]Error loading virtual:///prerequisite-imports/main (SystemJS Error#3 https://git.io/JvFET#3)
+2022-03-25 10:24:10-error: [Preview]@http://localhost:7457/scripting/systemjs/system.js:635:21
+2022-03-25 10:54:23-error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7457/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-03-25 10:54:30-error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7457/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-03-25 10:54:47-error: [Preview]TypeError: null is not an object (evaluating 'this.node.getComponent') in http://localhost:7457/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-03-25 10:54:47-error: [Preview]TypeError: null is not an object (evaluating '_canvas.width') in http://localhost:7457/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-03-25 10:54:53-error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'width') in http://localhost:7457/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-03-25 10:54:57-error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7457/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-03-25 10:54:57-error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'width') in http://localhost:7457/scripting/engine/bin/.cache/dev/preview/bundled/index.js
